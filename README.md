@@ -1,6 +1,6 @@
 # Hi there, I'm Ilias Sarigiannidis! 👋
 
-I am an aspiring Junior Software Developer with a strong interest in Back-End Development, Databases, and building modern web applications. For the past 1.5 to 2 years, I've been learning, experimenting, and building my coding foundation.
+I am an aspiring Junior Software Developer with a strong interest in Back-End Development, Databases, and building modern web applications. 
 
 ---
 
