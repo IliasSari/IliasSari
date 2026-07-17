@@ -9,6 +9,7 @@ I am an aspiring Junior Software Developer with a strong interest in Back-End De
 - 💡 **I’m looking to collaborate on:** Open-source projects or beginner-friendly team projects to gain more hands-on experience.
 - 🎯 **My Goal:** To constantly improve my code quality, learn best practices (Clean Code, OOP, SOLID), and transition into a professional developer role.
 - 📫 **How to reach me: e-mail: sarigilias@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ilias-sarigiannidis
 
 ---
 
