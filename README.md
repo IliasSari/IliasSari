@@ -1,13 +1,23 @@
-# Hi there, I'm Ilias Sarigiannidis! 👋
+<h1 align="center">Hi 👋, I'm Ilias</h1>
 
-I am an aspiring Junior Software Developer with a strong interest in Back-End Development, Databases, and building modern web applications. 
+<h3 align="center">
+  Junior Software Developer | C# • .NET • Java • Python
+</h3>
+
+<p align="center">
+  Building projects, learning new technologies and improving my development skills.
+</p>
 
 ---
 
-## 🚀 About Me
-- 🌱 **What I'm currently learning:** Deep diving into C#/.NET and integrating SQL databases and React.
-- 💡 **I’m looking to collaborate on:** Open-source projects or beginner-friendly team projects to gain more hands-on experience.
-- 🎯 **My Goal:** To constantly improve my code quality, learn best practices (Clean Code, OOP, SOLID), and transition into a professional developer role.
+## 🧑‍💻 About Me
+
+- 💻 Junior Software Developer
+- 🌱 Currently improving my skills in C#/.NET, Java, Python, SQL and JavaScript
+- 🗄️ Interested in backend development and databases
+- 🚀 Building personal projects to strengthen my programming skills
+- 🎯 Always learning and experimenting with new technologies
+
 - 📫 **How to reach me: e-mail: sarigilias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ilias-sarigiannidis
 
@@ -31,6 +41,8 @@ I am an aspiring Junior Software Developer with a strong interest in Back-End De
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -39,5 +51,13 @@ I am an aspiring Junior Software Developer with a strong interest in Back-End De
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+
+## 🎯 Currently Learning
+
+- 🗄️ SQL & Database Design
+- 🌐 Backend Development
+- 🧱 Object-Oriented Programming
+- ⚛️ React
 
 ---
