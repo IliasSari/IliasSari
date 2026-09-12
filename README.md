@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ilias</h1>
 
-<h3 align="center">
-  Junior Software Developer | C# • .NET • Java • Python
-</h3>
+<h2 align="center">
+  Junior Software Developer | C# • .NET • Java • Python • SQL
+</h2>
 
 <p align="center">
   Building projects, learning new technologies and improving my development skills.
@@ -23,6 +23,7 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IliasSari&theme=dracula)](https://git.io/streak-stats)
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Back-End & Programming Languages
