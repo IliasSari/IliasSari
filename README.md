@@ -23,8 +23,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IliasSari&theme=dracula)](https://git.io/streak-stats)
-## 🛠️ Tech Stack & Tools
+[![GitHub Streak](https://streak-stats.demolab.com?user=IliasSari&theme=dark&timezone=gmt)](https://git.io/streak-stats)
 
 ### 💻 Back-End & Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
