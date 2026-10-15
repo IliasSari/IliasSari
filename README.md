@@ -22,8 +22,7 @@
 - LinkedIn: https://www.linkedin.com/in/ilias-sarigiannidis
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IliasSari&theme=dark&timezone=gmt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IliasSari&theme=onedark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=200)](https://git.io/streak-stats)
 
 ### 💻 Back-End & Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
