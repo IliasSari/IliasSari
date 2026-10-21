@@ -1,62 +1,93 @@
-<h1 align="center">Hi 👋, I'm Ilias</h1>
+<div align="center">
 
-<h2 align="center">
-  Junior Software Developer | C# • .NET • Java • Python • SQL
-</h2>
+<h1>Hi &#128075;, I&#39;m Ilias Sarigiannidis</h1>
 
-<p align="center">
-  Building projects, learning new technologies and improving my development skills.
+<h3>Junior Software &amp; Data Developer | C# &bull; Python &bull; Java &bull; SQL</h3>
+
+<p>Building data-driven solutions, backend applications, and clean database architectures from Thessaloniki, Greece.</p>
+
+<p>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Software+%26+Data+Developer;C%23+%2F+.NET+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+SQL;%26+Database+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=IliasSari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/ilias-sarigiannidis">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sarigilias@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## &#129489;&#8205;&#128187; About Me
+
+- &#128187; **Junior Software & Data Developer** with a strong foundation in backend development, SQL databases, and data analysis
+- &#127793; Continuously expanding my stack in **C#, Python, Java and SQL**
+- &#128452;&#65039; Focused on database design and building reliable software solutions
+- &#128640; Turning complex business requirements and raw data into clean, functional applications
+
+---
+
+## &#128736;&#65039; Tech Stack
+
+### &#128187; Back-End & Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+### &#128452;&#65039; Databases & Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+### &#127912; Front-End & Web
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+### &#128295; Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## &#127919; Current Focus
 
-- 💻 Junior Software Developer
-- 🌱 Currently improving my skills in C#/.NET, Java, Python, SQL and JavaScript
-- 🗄️ Interested in backend development and databases
-- 🚀 Building personal projects to strengthen my programming skills
-- 🎯 Always learning and experimenting with new technologies
-
-- 📫 **How to reach me: e-mail: sarigilias@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ilias-sarigiannidis
+- &#128452;&#65039; **SQL & Database Architecture:** Query optimization, relational modeling, and managing business data workflows
+- &#128202; **Data Analysis:** Building structured reports and dashboards for actionable insights
+- &#127760; **Backend Development:** Designing clean object-oriented applications and APIs with **C#, Java and **Python**
+- &#9883;&#65039; **Modern Web Development:** Developing responsive front-end interfaces with **React** and **JavaScript**
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=IliasSari&theme=onedark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=200)](https://git.io/streak-stats)
 
-### 💻 Back-End & Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+## &#128200; GitHub Analytics
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IliasSari&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Ilias GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliasSari&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-### 🎨 Front-End
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IliasSari&theme=onedark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
-
-
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-
-## 🎯 Currently Learning
-
-- 🗄️ SQL & Database Design
-- 🌐 Backend Development
-- 🧱 Object-Oriented Programming
-- ⚛️ React
-
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliasSari&theme=onedark" alt="GitHub Activity Graph" />
+</div>
