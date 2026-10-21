@@ -2,13 +2,13 @@
 
 <h1>Hi &#128075;, I&#39;m Ilias Sarigiannidis</h1>
 
-<h3>Junior Software &amp; Data Developer | C# &bull; Python &bull; Java &bull; SQL</h3>
+<h3>Junior Back-End Developer | C# &bull; .NET &bull; Python &bull; Java &bull; SQL</h3>
 
-<p>Building data-driven solutions, backend applications, and clean database architectures from Thessaloniki, Greece.</p>
+<p>Building backend applications, APIs, and clean database architectures from Thessaloniki, Greece.</p>
 
 <p>
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Software+%26+Data+Developer;C%23+%2F+.NET+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+SQL;%26+Database+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Back-End+Developer;C%23+%2F+.NET+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+SQL;Backend+Systems+%26+Database+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,11 +28,10 @@
 
 ## &#129489;&#8205;&#128187; About Me
 
-- &#128187; **Junior Software & Data Developer** with a strong foundation in backend development, SQL databases, and data analysis
-- &#127793; Continuously expanding my stack in **C#, Python, Java and SQL**
-- &#128452;&#65039; Focused on database design and building reliable software solutions
-- &#128640; Turning complex business requirements and raw data into clean, functional applications
-
+- &#128187; **Junior Back-End Developer** with a strong foundation in backend development, OOP, and SQL databases
+- &#127793; Continuously expanding my stack in **C# / .NET, Python, Java, SQL, and React**
+- &#128452;&#65039; Focused on backend architecture, database design, and building reliable software solutions
+- &#128640; Turning complex business logic into clean, scalable, and functional applications
 ---
 
 ## &#128736;&#65039; Tech Stack
@@ -40,14 +39,16 @@
 ### &#128187; Back-End & Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-### &#128452;&#65039; Databases & Data Analysis
+### &#128452;&#65039; Databases
 <p>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
@@ -70,10 +71,10 @@
 
 ## &#127919; Current Focus
 
-- &#128452;&#65039; **SQL & Database Architecture:** Query optimization, relational modeling, and managing business data workflows
-- &#128202; **Data Analysis:** Building structured reports and dashboards for actionable insights
-- &#127760; **Backend Development:** Designing clean object-oriented applications and APIs with **C#, Java and **Python**
-- &#9883;&#65039; **Modern Web Development:** Developing responsive front-end interfaces with **React** and **JavaScript**
+- &#127760; **Back-End Development:** Designing clean object-oriented applications and REST APIs with **C# / .NET**, **Java**, and **Python**
+- &#128452;&#65039; **SQL & Database Architecture:** Query optimization, relational modeling, and database management
+- &#129521; **Software Engineering Principles:** Applying SOLID principles, clean code practices, and scalable design patterns
+- &#9883;&#65039; **Modern Web Development:** Connecting backend services with responsive **React** and **JavaScript** interfaces
 
 ---
 
