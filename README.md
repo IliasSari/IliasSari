@@ -13,7 +13,6 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=IliasSari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/ilias-sarigiannidis">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
